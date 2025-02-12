@@ -1,0 +1,9 @@
+"""An ML engineering plugin for your coding agents."""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
