@@ -6,3 +6,4 @@ node_modules/
 *.log
 dist/
 *.pyc
+.pytest_cache/
